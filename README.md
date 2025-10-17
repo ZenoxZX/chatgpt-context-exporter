@@ -59,6 +59,31 @@ Tools → ChatGPT → Project Context Exporter
 
 ---
 
+### 📸 Screenshots
+
+#### 🧱 Code Tab
+Shows the staging system for `.cs` files — select which code files will be exported to `Code.txt`.
+
+![Code Tab](.github/Screenshots/ss_code.png)
+
+#### 📘 Instructions Tab
+Stage `.md` documentation or design files for `Instructions.md`.
+
+![Instructions Tab](.github/Screenshots/ss_instructions.png)
+
+#### ⚙️ Git Tab
+Select a date range, apply filters, and export diffs to `git_status.txt`.
+
+![Git Tab](.github/Screenshots/ss_git.png)
+
+#### 💬 Prompt Window
+The generated prompt window shown after export (if enabled).  
+You can copy the prompt directly to ChatGPT.
+
+![Prompt Window](.github/Screenshots/ss_prompt.png)
+
+---
+
 ### **Git Export Options**
 
 - **Quick Range Buttons:** Quickly set date ranges such as _Last 24h_, _Last 7 Days_, _This Month_, or _All Time_.  
