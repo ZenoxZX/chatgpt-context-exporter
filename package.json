@@ -1,0 +1,19 @@
+{
+  "name": "com.ludu.chatgpt-context-exporter",
+  "displayName": "ChatGPT Context Exporter",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A Unity Editor tool to export code, instructions, and git diffs as context files for ChatGPT. Includes staging UI, prompt generator, and git integration.",
+  "keywords": [ "ChatGPT", "AI", "Editor Tool", "Context Exporter", "Git Diff" ],
+  "category": "Editor Tools",
+  "author": {
+    "name": "Aygün ÖZGÜR",
+    "url": "https://github.com/zenoxzx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenoxzx/chatgpt-context-exporter.git"
+  },
+  "license": "MIT",
+  "hideInEditor": false
+}
